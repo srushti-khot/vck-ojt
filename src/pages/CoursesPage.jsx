@@ -16,7 +16,7 @@ const Courses = () => {
                     <hr></hr>
                     <div>
                         <video controls width="100%" height="auto">
-                            <source src ="./src/assets/video1.mp4" type="video/mp4"></source>
+                            <source src =".Video/vck.mp4" type="video/mp4"></source>
                         </video>
                     </div>
             
