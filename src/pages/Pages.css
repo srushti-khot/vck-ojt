@@ -106,11 +106,14 @@
     
 }
 #apply{
-    background-color:green;
-    color: blue;
-    
-    
+  background-color: #28A745;
+  font-size: 1.2em;
+  
 }
+
+    
+    
+
 #home5{
     color: white;
     position: absolute;

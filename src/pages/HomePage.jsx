@@ -15,7 +15,7 @@ const Home = () => {
                             <img src="./Images/header.png" alt="vivekanand college" height={350} width={950}/>
                             <div id="home5">
                                 <h1>Welcome to vivekanand college!</h1>
-                                <p>Your journey to excellence start here.</p>
+                                <h2>Your journey to excellence start here.</h2>
                                 <a href="addmissionpage" id="apply"><h2>Apply Now!</h2></a>
 
                             </div>
