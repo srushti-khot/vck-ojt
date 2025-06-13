@@ -1,8 +1,10 @@
-#demo{
+#footer{
     background-color:darkslategrey;
     color:white ;
     padding: 10px;
     bottom:0;
-    right: 0;
+    
+}
+#footer1{
     text-align: center;
 }

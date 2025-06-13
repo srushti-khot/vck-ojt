@@ -8,7 +8,7 @@ const About = () => {
             <Header/>
                 <div id="home3">
 
-                    <h2 id="about">About Vivekanand College</h2>
+                    <h1 id="about">About Vivekanand College</h1>
                     <p>Vivekanand College stands as a beacon of knowledge and integrity, committed
                      to delivering transformative education since its inception in [Year of
                      Establishment, e.g., 1980]. Located in the bustling heart of [City/Area, e.g.,

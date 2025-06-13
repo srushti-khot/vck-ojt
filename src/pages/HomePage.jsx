@@ -12,11 +12,12 @@ const Home = () => {
                 
                     <div id="home3">
                         <div id="image">
-                            <img src="./Images/header.png" alt="Vivekanand college campus" height={350} width={950}></img>
+                            <img src="./Images/header.png" alt="vivekanand college" height={350} width={950}/>
                             <div id="home5">
-                                <h1>Welcome to Vivekanand College!</h1>
+                                <h1>Welcome to vivekanand college!</h1>
                                 <p>Your journey to excellence start here.</p>
-                                <a href="Addmissionpage" id="home4"><h3>Apply Now!</h3></a>
+                                <a href="addmissionpage" id="apply"><h2>Apply Now!</h2></a>
+
                             </div>
                         </div>
                             <p>**Vivekanand College** is a premier educational institution dedicated to
@@ -53,6 +54,7 @@ const Home = () => {
 
                             <p id="home1">Ready to explore our courses?</p>
                             <a href="/Coursespage" id="home">Explore Courses</a>
+                            
                     </div>
                 
             

@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 const Header = () => {
   return (
     <div>
-      <header class="demo">
+      <header id="demo">
         <h2>Vivekanand College</h2>
 
 
@@ -17,8 +17,10 @@ const Header = () => {
           <Link to="/coursespage" id="main">Courses</Link>
           <Link to="/contactpage" id="main">Contact</Link>
           <Link to="/addmissionpage" id="main1"><b>Apply Now!</b></Link>
-
         </nav>
+        
+
+              
 
       </header>
     </div>
@@ -27,4 +29,6 @@ const Header = () => {
 }
 
 
-export default Header;
+export default Header
+
+
