@@ -11,12 +11,12 @@ const Home = () => {
             <Header/>
                 
                     <div id="home3">
-                        <div id="image">
-                            <img src="./Images/header.png" alt="vivekanand college" height={350} width={950}/>
-                            <div id="home5">
+                        <div id="hero-section">
+                            <img src="./Images/header.png" alt="vivekanand college" height={350} width={950} id="hero-banner-image"/>
+                            <div id="hero-overlay-text">
                                 <h1>Welcome to vivekanand college!</h1>
-                                <h2>Your journey to excellence start here.</h2>
-                                <a href="addmissionpage" id="apply"><h2>Apply Now!</h2></a>
+                                <h3>Your journey to excellence start here.</h3>
+                                <a href="addmissionpage" id="apply"><h3>Apply Now!</h3></a>
 
                             </div>
                         </div>
