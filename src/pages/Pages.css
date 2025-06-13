@@ -153,8 +153,9 @@
   background-color:#28a745;
   color: #fff;
   
-  display: inline-block;
-  
+  display:block;
+  margin-left: 42%;
+  margin-right: 42%;
 }
 
     
